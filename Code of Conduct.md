@@ -60,11 +60,18 @@ If you do need some ideas to work on, have a look at the [Bot Summit 2014 docume
 
 One of the main goals of [Botwiki.org](https://botwiki.org/) and [Botmakers.org](https://botmakers.org/) is to create a safe online space where everyone is welcome. Making this happen will require effort from everyone participating in our project and our community.
 
-There will be some technical tools put in place that will make this easier -- our Slack bot will be trained to recognize offensive language and privately notify the person who probably just didn't know they were using terms that others find offensive. Until then, I'd like to ask everyone to read about ableist language, with some great resources being:
+There will be some technical tools put in place that will make this easier -- our Slack bot will be trained to recognize offensive language and privately notify the person who probably just didn't know they were using terms that others find offensive. Until then, I'd like to ask everyone to read about gendered and ableist language, with some great resources being:
 
+ - [Language Matters: Stop Using "Guys" to Address Mix-Gender Groups](https://subfictional.com/2012/07/02/language-matters-stop-using-guys-to-address-mix-gender-groups/)
  - [Doing Social Justice: 10 Reasons to Give Up Ableist Language](http://www.huffingtonpost.com/rachel-cohenrottenberg/doing-social-justice-thou_b_5476271.html)
  - [List of disability-related terms with negative connotations](https://en.wikipedia.org/wiki/List_of_disability-related_terms_with_negative_connotations)
  - [Alternatives to using ableist slurs](http://isthisableism.tumblr.com/sluralternatives)
+
+*(More links coming soon.)*
+
+Some more general reading if you're having a problem with the concepts above:
+
+ - [Straight White Male: The Lowest Difficulty Setting There Is](http://whatever.scalzi.com/2012/05/15/straight-white-male-the-lowest-difficulty-setting-there-is/) 
 
 *(More links coming soon.)*
 
