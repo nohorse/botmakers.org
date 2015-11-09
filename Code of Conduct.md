@@ -3,13 +3,14 @@
 ## Introduction
 
 
-This **Code of Conduct** applies equally to every member of the [Botwiki.org](https://botwiki.org/) team and contributors and [Botmakers.org](https://botmakers.org/) community members and in all online and offline spaces (examples include, but are not limited to, private and public communication in the [Botmakers.org](https://botmakers.org/) Slack group, emails, Twitter DMs, in-person contact, etc).
+By contributing to [Botwiki.org](https://botwiki.org/) and participating in the [Botmakers.org](https://botmakers.org/) community you agree to our **Code of Conduct**. This is a living document and will be amended as necessary. Any updates will be immediately communicated on the [#announcements](https://botmakers.slack.com/messages/announcements/) channel in the [Botmakers.org](https://botmakers.org/) Slack group. You can also view [the history of changes](https://github.com/botwiki/botmakers.org/commits/master/Code%20of%20Conduct.md). 
 
-This is a living document and will be amended as necessary. Any updates will be immediately communicated on the **#announcements** channel in the [Botmakers.org](https://botmakers.org/) Slack group. You can also view [the history of changes](https://github.com/botwiki/botmakers.org/commits/master/Code%20of%20Conduct.md). 
+We have a dedicated channel [#code-of-conduct](https://botmakers.slack.com/messages/code-of-conduct/) for openly discussing our rules and everyone is welcome to join in.
 
-If you are being [harassed](#what-is-considered-harassment) by any member of the [Botwiki.org](https://botwiki.org/) or [Botmakers.org](https://botmakers.org/) communities, notice that someone else is being [harassed](#what-is-considered-harassment), or have any other concerns, please contact the administrators via DM, currently **@stefan** and **@bitpixi**.
+This **Code of Conduct** applies equally to all members and contributors of [Botwiki.org](https://botwiki.org/) and [Botmakers.org](https://botmakers.org/), and in **all online and offline spaces** (examples include, but are not limited to, private and public communication in the [Botmakers.org](https://botmakers.org/) Slack group, emails, pull requests on GitHub, Twitter DMs between members, in-person contact, etc).
 
-If you are being [harassed](#what-is-considered-harassment) by a member of the [Botwiki.org](https://botwiki.org/) and [Botmakers.org](https://botmakers.org/) communities outside of our online spaces, we still want to know about it.
+
+If you have any concerns, please contact the administrators via DM, currently [@stefan](https://botmakers.slack.com/messages/@stefan/details/) and [@bitpixi](https://botmakers.slack.com/messages/@bitpixi/details/).
 
 The admins reserve the right to exclude people from the [Botwiki.org](https://botwiki.org/) and [Botmakers.org](https://botmakers.org/) communities based on their past behavior, including behavior outside the [Botwiki.org](https://botwiki.org/) and [Botmakers.org](https://botmakers.org/) communities spaces and behavior towards people who are not in the [Botwiki.org](https://botwiki.org/) and [Botmakers.org](https://botmakers.org/) communities.
 
@@ -25,8 +26,6 @@ We will respect confidentiality requests for the purpose of protecting victims o
 ***An extra note on bots: We are a community of people who make "useful, interesting, artistic and friendly online bots". If you are going to create spammy, shady, scammy bots to gain traffic to your site, game the system of some other website, etc, this is not the right community for you.*** 
 
 **¯\\\_(ツ)\_/¯**
-
-By contributing to [Botwiki.org](https://botwiki.org/) and participating in the [Botmakers.org](https://botmakers.org/) community you agree to this **Code of Conduct**. Make sure you **read it and understand thoroughly**.  Participants asked to stop any [harassing behavior](#what-is-considered-harassment) are expected to comply immediately.
 
 If a participant engages in [harassing behavior](#what-is-considered-harassment), the [Botwiki.org](https://botwiki.org/) team and [Botmakers.org](https://botmakers.org/) administrators may take any action they deem appropriate, up to and including expulsion from all the [Botwiki.org](https://botwiki.org/) and [Botmakers.org](https://botmakers.org/) community spaces and identification of the participant as a harasser to other community members and/or the general public.
 
@@ -73,28 +72,25 @@ Some more general reading if you're having a problem with the concepts above:
 
 *(More links coming soon.)*
 
-If you see anyone using terms you find offensive or you believe would be offensive to certain groups of people, try reaching out to the person privately. The person probably meant no offense and public shaming -- or worse, attacks -- will not solve anything.
 
-I also suggest to update the message using more appropriate language.
+Our general rule of thumb for identifying slurs is that slurs are words/expressions that describe things people can't change about themselves while actually meaning "bad".
 
-Also, be **very careful** about misunderstandings. These may happen particularly when all the nuances of communication, like body language or tone of voice are stripped away, like in an online setting. Also, remember that we are a group of people from all over the world, so people whose first language is not English will very likely learn about ableist language as a brand new concept.
+If you see anyone using terms you find offensive or you believe would be offensive to certain groups of people, first try reaching out to the person privately. Also, be **very careful** about misunderstandings. These may happen particularly when all the nuances of communication, like body language or tone of voice are stripped away, like in an online setting. Also, remember that we are a group of people from all over the world, so people whose first language is not English will very likely learn about ableist language as a brand new concept.
 
 **Always contact the person you feel is being offensive** and try to talk it out, **then contact the moderator**, if necessary.
 
 
-***Personal note:***
-
-This stuff is *hard* and there are some gray areas, so if you have any questions, ask in the [#code-of-conduct](https://botmakers.slack.com/messages/code-of-conduct/) channel.
-
-Our general rule of thumb for identifying slurs is that slurs are basically words/expressions that describe things people can't change about themselves while actually meaning "bad".
-
-Again, any questions -- visit the [#code-of-conduct](https://botmakers.slack.com/messages/code-of-conduct/) channel.
-
-*-- Stefan*
-
 ## On using Slack
 
 If you're new to Slack, be sure to check out [slack.com/is](https://slack.com/is) and for more advanced users, there is [Using slash commands](https://slack.zendesk.com/hc/en-us/articles/201259356-Using-slash-commands).
+
+## Am I posting in the right channel?
+
+In our Slack group, we're trying to keep the number of channels low and avoid spending time discussing how appropriate a channel is for the current topic. We have a [dedicated website](https://botwiki.org/) to keep the important information permanent and organized. And if the need arises, we're more than happy to create a separate channel if the [#general](https://botmakers.slack.com/messages/general/details/) channel gets too cluttered.
+
+## Can I test my bot here?
+
+Yes! Contact [@stefan](https://botmakers.slack.com/messages/@stefan/details/) to set you up. Just make sure to check that your bot follows our Code of Conduct neither you or your bot enages in spammy/harassing behavior (for example, don't mass DM people, rather use the [#general](https://botmakers.slack.com/messages/general/details/) channel to ask people to participate).
 
 ## Notes
 
@@ -104,4 +100,4 @@ This **Code of Conduct** is based on and inspired by:
 - [Django Code of Conduct](https://www.djangoproject.com/conduct/)
 - [LGBTQ in Technology Code of Conduct ](http://lgbtq.technology/coc.html)
 
-If you have any comments or questions, feel free to open an issue or pull request on this repo, contact the [Botmakers.org](https://botmakers.org/) admins on Slack, or reach out directly to [@fourtonfish](https://twitter.com/fourtonfish) on Twitter or [via email](mailto:stefan@fourtonfish.com).
+If you have any comments or questions, feel free to open an issue or pull request on this repo, join the conversation in the [#code-of-conduct](https://botmakers.slack.com/messages/code-of-conduct/) channel, contact the [Botmakers.org](https://botmakers.org/) admins on Slack, or reach out directly to [@fourtonfish](https://twitter.com/fourtonfish) on Twitter or [via email](mailto:stefan@fourtonfish.com).
