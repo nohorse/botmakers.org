@@ -7,9 +7,7 @@ This **Code of Conduct** applies equally to every member of the [Botwiki.org](ht
 
 This is a living document and will be amended as necessary. Any updates will be immediately communicated on the **#announcements** channel in the [Botmakers.org](https://botmakers.org/) Slack group. You can also view [the history of changes](https://github.com/botwiki/botmakers.org/commits/master/Code%20of%20Conduct.md). 
 
-If you are being [harassed](#what-is-considered-harassment) by any member of the [Botwiki.org](https://botwiki.org/) or [Botmakers.org](https://botmakers.org/) communities, notice that someone else is being [harassed](#what-is-considered-harassment), or have any other concerns, please contact the administrators via DM.
-
-***Note: Currently @stefan/[@fourtonfish](https://twitter.com/fourtonfish) is the only administrator; this list will be updated.***
+If you are being [harassed](#what-is-considered-harassment) by any member of the [Botwiki.org](https://botwiki.org/) or [Botmakers.org](https://botmakers.org/) communities, notice that someone else is being [harassed](#what-is-considered-harassment), or have any other concerns, please contact the administrators via DM, currently **@stefan** and **@bitpixi**.
 
 If you are being [harassed](#what-is-considered-harassment) by a member of the [Botwiki.org](https://botwiki.org/) and [Botmakers.org](https://botmakers.org/) communities outside of our online spaces, we still want to know about it.
 
