@@ -5,7 +5,8 @@
 
 By contributing to [Botwiki.org](https://botwiki.org/) and participating in the [Botmakers.org](https://botmakers.org/) community you agree to our **Code of Conduct**. This is a living document and will be amended as necessary. Any updates will be immediately communicated on the [#announcements](https://botmakers.slack.com/messages/announcements/) channel in the [Botmakers.org](https://botmakers.org/) Slack group. You can also view [the history of changes](https://github.com/botwiki/botmakers.org/commits/master/Code%20of%20Conduct.md). 
 
-We have a dedicated channel [#code-of-conduct](https://botmakers.slack.com/messages/code-of-conduct/) for openly discussing our rules and everyone is welcome to join in.
+
+We understand that creating truly welcoming and safe spaces can be challenging, and we don't want to make it "*unsafe to question what is unsafe, unsafe to discuss the concept of safety*", so we created a dedicated [#code-of-conduct](https://botmakers.slack.com/messages/code-of-conduct/) channel for openly discussing and explaining our rules, and every member is welcome to join in.
 
 This **Code of Conduct** applies equally to all members and contributors of [Botwiki.org](https://botwiki.org/) and [Botmakers.org](https://botmakers.org/), and in **all online and offline spaces** (examples include, but are not limited to, private and public communication in the [Botmakers.org](https://botmakers.org/) Slack group, emails, pull requests on GitHub, Twitter DMs between members, in-person contact, etc).
 
