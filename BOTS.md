@@ -10,7 +10,7 @@ See screenshot above. You can use this bot in any channel -- with a reasonable f
 
 ## MeMoji
 
-[![MeMoji](https://botwiki.org/content/bots/slackbots/images/MeMoji.png)](https://botwiki.org/bots/slackbots/memoji/)
+[![MeMoji](https://botwiki.org/content/bots/slackbots/images/MeMoji.png)](https://botwiki.org/bots/slackbots/MeMoji/)
 
 A sort of "charades with emoji" game. There is a dedicated channel [#games-memoji](https://botmakers.slack.com/messages/games-memoji/details/).
 
