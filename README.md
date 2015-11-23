@@ -6,6 +6,8 @@
 
 ***Note: All members must read and follow our [Code of Conduct](https://github.com/botwiki/botmakers.org/blob/master/Code%20of%20Conduct.md).***
 
+Also, here's a [list of bots](https://github.com/botwiki/botmakers.org/blob/master/BOTS.md) we're playing with right now.
+
 # Auto-invite page for your Slack community
 
 This repo also serves as a template for a neat-looking auto-invite page for your Slack community. It is loosely based on [outsideris/slack-invite-automation](https://github.com/outsideris/slack-invite-automation), but kept simpler and easier to customize.

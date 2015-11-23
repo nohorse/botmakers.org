@@ -93,6 +93,8 @@ In our Slack group, we're trying to keep the number of channels low and avoid sp
 
 Yes! Contact [@stefan](https://botmakers.slack.com/messages/@stefan/details/) to set you up. Just make sure to check that your bot follows our Code of Conduct and neither you or your bot enage in spammy/harassing behavior (for example, don't mass DM people, rather use the [#general](https://botmakers.slack.com/messages/general/details/) channel to ask people to participate).
 
+Here's a [list of bots](https://github.com/botwiki/botmakers.org/blob/master/BOTS.md) we're playing with right now.
+
 ## Notes
 
 This **Code of Conduct** is based on and inspired by:
