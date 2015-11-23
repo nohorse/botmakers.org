@@ -1,6 +1,6 @@
 # Bots on Botmakers.org
 
-Right now we have the following integrations:
+On top of a few people testing their bots, we have the following integrations:
 
 ## slack-tableflip
 
@@ -11,7 +11,6 @@ See screenshot above. You can use this bot in any channel -- with a reasonable f
 ## MeMoji
 
 [![MeMoji](https://botwiki.org/content/bots/slackbots/images/MeMoji.png)](https://botwiki.org/bots/slackbots/memoji/)
-
 
 A sort of "charades with emoji" game. There is a dedicated channel [#games-memoji](https://botmakers.slack.com/messages/games-memoji/details/).
 
