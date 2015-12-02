@@ -2,6 +2,16 @@
 
 On top of a few people testing their bots, we have the following integrations:
 
+## slack-pokemon
+
+[![slack-pokemon](https://botwiki.org/content/bots/slackbots/images/slack-pokemon.png)](https://botwiki.org/bots/slackbots/slack-pokemon/)
+
+A Slack-based Pokemon game that lets you battle against a bot. I changed the keyword to `Pokemon`, so, for example, to start a game you'd type something like `Pokemon, battle me!`. (Also note that punctuation will be ignored.)
+
+It would be really nice to turn this into a real game, for example, give people who join the [#games-pokemon](https://botmakers.slack.com/messages/games-pokemon/details/) channel three random Pokemons, let players battle each other and win/lose Pokemons.
+
+Anything's possible on Slack :-)
+
 ## slack-tableflip
 
 [![slack-tableflip](https://botwiki.org/content/bots/slackbots/images/slack-tableflip.png)](https://botwiki.org/bots/slackbots/slack-tableflip/)
