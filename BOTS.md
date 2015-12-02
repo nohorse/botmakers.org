@@ -8,6 +8,8 @@ On top of a few people testing their bots, we have the following integrations:
 
 A Slack-based Pokemon game that lets you battle against a bot. I changed the keyword to `Pokemon`, so, for example, to start a game you'd type something like `Pokemon, battle me!`. (Also note that punctuation will be ignored.)
 
+See the list of commands [on the original GitHub page](https://github.com/rvinluan/slack-pokemon/#how-to-play).
+
 It would be really nice to turn this into a real game, for example, give people who join the [#games-pokemon](https://botmakers.slack.com/messages/games-pokemon/details/) channel three random Pokemons, let players battle each other and win/lose Pokemons.
 
 Anything's possible on Slack :-)
