@@ -30,11 +30,11 @@ The original idea behind MeMoji was to have people create their own games (using
 
 For more commands see [memoji.mod.bz](https://memoji.mod.bz/).
 
-## @botwikibot
+## @botwikibot/Sidekick
 
-And of course, our very own [@botwikibot](https://botwiki.org/projects/#botwikibot). It's still a very early work in progress, but it can say *hello* and helps monitor our [#twitter-firehose](https://botmakers.slack.com/messages/twitter-firehose/details/) channel.
+[![Sidekick](http://getyoursidekick.org/images/reaction-retweet.png)](http://getyoursidekick.org/)
 
-We plan on adding many more features in the future!
+And of course, our very own **@botwikibot**/[Sidekick](http://getyoursidekick.org/). It's still a very early work in progress, but it can say *hello* and helps monitor our [#twitter-firehose](https://botmakers.slack.com/messages/twitter-firehose/details/) channel.
 
 ## Notes
 
