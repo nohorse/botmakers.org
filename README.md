@@ -36,3 +36,5 @@ About the **step 3** above: If you don't need to include this code, you can simp
 You can also edit the file `main/handlebars` inside the `views/layouts` folder and remove the line that says `{{> visitor_stats }}` and get rid of the file completely.
 
 As for hosting your signup page on Heroku, note that Heroku's free plan [forces your app to sleep for a few hours every day](https://www.heroku.com/pricing), so I don't recommend using Heroku if you expect a lot of traffic spread roughly evenly throughout the day, as you might lose signups.
+
+And finally, you might also want to update the [error messages](https://github.com/botwiki/botmakers.org/blob/master/botmakers.js#L49) to include your email/link to your Twitter page/etc.
