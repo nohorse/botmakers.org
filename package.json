@@ -2,7 +2,7 @@
   "name": "botmakers",
   "version": "1.0.0",
   "description": "Join the Botmakers community on Slack!",
-  "main": "botmakers.js",
+  "main": "server.js",
   "dependencies": {
     "body-parser": "^1.14.0",
     "express": "^4.10.2",
