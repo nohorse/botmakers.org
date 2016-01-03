@@ -73,6 +73,14 @@ app.post('/invite', function(req, res) {
 
 app.use(express.static(__dirname + '/public'));
 
-server.listen(3011, function(){
-  console.log('Express server listening on port 3011');
+/*
+  Note: This allows the app to be deployed to openshift.com or heroku.com. See https://github.com/botwiki/botmakers.org/issues/5#issuecomment-168426855 for a bit more detail.
+
+  Also, instead of 3011, you could use 8080, or any other port you want. 
+*/
+app.set('port', process.env.OPENSHIFT_NODEJS_PORT || process.env.PORT || 3011);
+app.set('ip', process.env.OPENSHIFT_NODEJS_IP || '127.0.0.1');
+
+server.listen(app.get('port') ,app.get('ip'), function(){
+  console.log('Express server listening on port' + app.get('port'));
 });
