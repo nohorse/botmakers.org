@@ -1,5 +1,6 @@
-@dark: #525252;
-@link-color: #3498DB;
+@main-color: #323232;
+@background-color: #fff;
+@link-color: #434343;
 @site-width: 960px;
 
 *, *:before, *:after {
@@ -9,19 +10,21 @@
 html,
 body{
   font-family: "Source Serif Pro", serif;
-  color: @dark;
+  color: @main-color;
   font-size: 1.2em;
   margin: 0;
-  padding: 0 2px;
-  @media (min-width: 800px) {
-    padding: 1em 0.5em;
-  }
-  height: 100%;
+  min-height: 100%;
+  background-color: @background-color;
 }
 header,
 section{
   max-width: @site-width;
   margin: 0 auto;
+}
+#content{
+  border-top: 12px solid #ED5565;
+  box-shadow: 0 5px 40px #aaa;
+  padding: 1em;
 }
 header p{
   @media (min-width: 800px) {
@@ -48,10 +51,10 @@ button{
   cursor: pointer;
 }
 input{
-  border: 5px solid @dark;
+  border: 5px solid @main-color;
 }
 input:focus{
-  border-color:  @dark + #555;
+  border-color:  @main-color + #555;
   outline: none;
   cursor: text;
 }
@@ -62,7 +65,7 @@ input:focus{
 button{
   color: #fff;
   font-weight: bold;
-  background: @dark;
+  background: @main-color;
   text-align: left;
   border: none;
 }
@@ -72,11 +75,9 @@ h1{
 a{
   color: @link-color;
   transition: color 0.5s;
-  text-decoration: none;
 }
 a:hover{
   color: @link-color + #222;
-  text-decoration: underline;
 }
 div#botmakers{
   height: 180px;
@@ -108,7 +109,7 @@ footer{
   @media (min-width: 800px) {
     text-align: justify;
   }
-  border-top: 1px solid silver;
+  border-top: 1px solid @background-color - #111;
   margin: 0 auto;
 }
 footer ul{
