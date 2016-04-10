@@ -1,7 +1,7 @@
 @main-color: #fff;
-@background-color: #121212;
+@background-color: #170c0c;
 @link-color: #fff;
-@site-width: 1024px;
+@site-width: 1200px;
 
 *, *:before, *:after {
   box-sizing: border-box;
@@ -12,7 +12,7 @@ body{
   font-family: "Source Serif Pro", serif;
   color: @main-color;
   text-shadow: 0 0 2px #323232;
-  font-size: 1.2em;
+  font-size: 1.3em;
   margin: 0;
   min-height: 100%;
   background-color: @background-color;
@@ -34,6 +34,7 @@ header p{
   }
 }
 section{
+  font-weight: bold;
   min-height: 100%;
   margin: 0 auto;
   padding: 10px;
@@ -68,7 +69,7 @@ button{
   color: #fff;
   font-weight: bold;
   background: @background-color;
-  text-align: left;
+  text-align: center;
   border: none;
 }
 h1{
@@ -88,6 +89,7 @@ a:hover{
   color: @link-color + #222;
 }
 footer{
+  font-weight: normal;
   @media (min-width: 800px) {
     text-align: justify;
   }

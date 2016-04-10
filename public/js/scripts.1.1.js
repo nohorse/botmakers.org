@@ -17,7 +17,7 @@ ready(function(){
           el.classList.remove('shifted');
           el.classList.add('unshifted');
         },
-        15*index*index);
+        55*index*index);
     });
   }
 });
