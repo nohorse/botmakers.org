@@ -45,12 +45,18 @@ input,
 button {
   font-family: 'Merriweather Sans';
   display: block;
-  width: 100%;
+  width: 50%;
   margin: 0 auto;
   padding: 10px;
   font-size: 0.8em;
   padding: 20px;
   cursor: pointer;
+}
+@media (max-width: 900) {
+  input,
+  button {
+    width: 100%;
+  }
 }
 input {
   border: 5px solid #ffffff;
@@ -66,21 +72,16 @@ input:focus {
   transition: border-color 0.3s;
 }
 button {
+  margin-top: 1em;
   color: #fff;
   font-weight: bold;
   background: #170c0c;
   text-align: center;
-  border: none;
+  border: 1px solid #281d1d;
 }
 h1 {
   font-size: 2em;
   text-align: center;
-  margin: 0 0 4em;
-}
-@media (max-width: 900px) {
-  h1 {
-    margin: 4em 0 1em;
-  }
 }
 a {
   color: #ffffff;
