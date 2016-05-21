@@ -13,9 +13,6 @@ body{
   color: @main-color;
   text-shadow: 0 0 2px #323232;
   font-size: 1.3em;
-  @media(max-width: 900px){
-    font-size: 1.2em;
-  }
   margin: 0;
   min-height: 100%;
   background-color: @background-color;
@@ -44,11 +41,14 @@ section{
 }
 form{
   padding: 1em 0 2em;
+  margin-bottom: 3em;
+  content:"";
+  display:block;
+  clear:both;
 }
 input,
 button{
   font-family: 'Merriweather Sans';
-  display: block;
   margin: 0 auto;
   padding: 10px;
   font-size: 0.8em;
@@ -57,7 +57,13 @@ button{
 }
 input{
   border: 5px solid @main-color;
+  float: none;
   width: 100%;
+  @media(min-width: 900px){
+    width: 60%;
+    float: left;
+    height: 3em;
+  }
 }
 input:focus{
   border-color:  @main-color + #555;
@@ -69,16 +75,19 @@ input:focus{
   transition: border-color 0.3s;
 }
 button{
-  margin-top: 1em;
   color: #fff;
   font-weight: bold;
   background: @background-color;
   text-align: center;
-  border: 1px solid @background-color + #111;
-  min-width: 40%;
-  @media(max-width: 900px){
-    width: 100%;
-  }
+  border: 1px solid @background-color;
+  width: 100%;
+  margin-top: 1em;
+  @media(min-width: 900px){
+    width: 40%;
+    height: 3em;
+    float: right;
+    margin-top: 0em;
+  } 
 }
 h1{
   font-size: 2em;
@@ -111,7 +120,10 @@ footer ul li{
   color: #000;
   padding: 5px;
 }
-
+img.logo-slack{
+  max-width: 100px;
+  vertical-align: bottom;
+}
 /* Animations */
 
 .unshifted{
