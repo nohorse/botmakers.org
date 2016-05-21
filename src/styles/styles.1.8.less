@@ -16,6 +16,7 @@ body{
   margin: 0;
   min-height: 100%;
   background-color: @background-color;
+  height: 100%;
 }
 header,
 section{
@@ -23,10 +24,9 @@ section{
   margin: 0 auto;
 }
 #content{
-  border-top: 12px solid @background-color + #111;
   background: url('../images/botwiki-edit-a-thon.jpg') center top no-repeat;
-  box-shadow: 0 5px 40px rgba(0,0,0,0.3);
-  padding: 1em;
+  box-shadow: 0 5px 40px rgba(0,0,0,0.6);
+  min-height: 100%;
 }
 header p{
   @media (min-width: 800px) {
@@ -37,10 +37,12 @@ section{
   font-weight: bold;
   min-height: 100%;
   margin: 0 auto;
-  padding: 10px;
+  padding: 0;
+}
+h1,form,p{
+  padding: 0.5rem 1rem;
 }
 form{
-  padding: 1em 0 2em;
   margin-bottom: 3em;
   content:"";
   display:block;
@@ -82,16 +84,19 @@ button{
   border: 1px solid @background-color;
   width: 100%;
   margin-top: 1em;
+  border: 3px solid @background-color + #222;
   @media(min-width: 900px){
     width: 40%;
     height: 3em;
     float: right;
     margin-top: 0em;
+    border: none;
   } 
 }
 h1{
   font-size: 2em;
   text-align: center;
+  margin-top: 0;
 }
 a{
   color: @link-color;
@@ -102,17 +107,13 @@ a:hover{
 }
 footer{
   font-weight: normal;
-  @media (min-width: 800px) {
-    text-align: justify;
-  }
-  border-top: 1px solid @background-color + #111;
   margin: 0 auto;
-}
-footer ul{
-  padding: 0;
-}
-footer ul li{
-  display: inline;
+  padding-top: 1em;
+  p{
+    border-top: 1px solid @background-color;
+    margin: 0 1em 0;
+    padding: 2em 0 2em;
+  }
 }
 .chromeframe {
   margin: 0.2em 0;
@@ -127,5 +128,5 @@ img.logo-slack{
 /* Animations */
 
 .unshifted{
-  transition: transform 1s, opacity 1s;
+  transition: transform 0.4s, opacity 1s;
 }
